@@ -1,4 +1,5 @@
 first demo
-adding 2nd line using demo2 branch
+adding 1st line using demo3 branch
+adding 2nd line using demo2 branch(i am changing this so i can resolve conflicts or an error automatically)
 adding 3rd line using demo3 branch
 we will see if it works
